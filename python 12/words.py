@@ -1,0 +1,2 @@
+words = ['kwantlen', 'rai', 'zimmerman', 'drain gang', 'amygdala', 'awesomeness', 'deoxyribonucleic acid', 'five nights at freddys', 'taco bell',\
+    'bladee', 'icecream sandwich', 'cheesy pizza', 'axolotl', 'lizard', 'simulation', 'valorant', 'kanye', 'cinnamon', 'shakespeare', 'california roll']
